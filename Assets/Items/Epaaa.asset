@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f1e56204617c8244b463f1945670384, type: 3}
+  m_Name: Epaaa
+  m_EditorClassIdentifier: 
+  itemName: Espada Legendaria De La Mierda Maxima
+  itemDescription: "Es una espada to guapa que pega unos pi\xF1azos mortales del
+    averno, lo malo es que huele a ojete sucio, pero pega bastante xD"
+  itemPrice: 999
+  itemSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
